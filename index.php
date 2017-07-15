@@ -6,3 +6,4 @@
  * Time: 上午9:28
  */
 echo "hello world";
+?>
